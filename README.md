@@ -8,6 +8,8 @@
 # Parte I
   - Utilizando a ajuda de um editor de sql online (https://sqliteonline.com/) para a execução das querys;
   - Após a junção da tab_lojas e tab_representante em "tabela_final", importamos no Power BI as bases csv (**tab_vendas**, **tab_produtos**);
+  - Análise da qualidade dos dados
+     - Lojas distintas possuem o mesmo id_loj
   - Tratamento dos dados das tabelas
      - Padronização dos nomes das tabelas e colunas
   - Antes de começar com o desenvolvimento do Dashboard, vamos começar com o protótipo da Home e a estrutura das próximas abas com o Figma;
