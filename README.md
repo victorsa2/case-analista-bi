@@ -10,6 +10,7 @@
   - Após a junção da tab_lojas e tab_representante em "tabela_final", importamos no Power BI as bases csv (**tab_vendas**, **tab_produtos**);
   - Análise da qualidade dos dados:
      - Lojas distintas possuem o mesmo id_loj:
+       
        ![image](https://github.com/victorsa2/case-analista-bi/assets/141345545/0f426ad7-0292-403f-a59a-260602b06d7c)
 
      - Lojas com o mesmo nome, mesmo id, mas com tamanho diferente (o que em teoria indica que não são a mesma loja):
