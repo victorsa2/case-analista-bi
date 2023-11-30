@@ -8,6 +8,7 @@
 
      - Lojas com o mesmo nome, mesmo id, mas com tamanhos diferentes (o que em teoria indicam que não são a mesma loja):
        ![image](https://github.com/victorsa2/case-analista-bi/assets/141345545/707b49d6-913c-4e3a-bc72-baf5540e8466)
+       Devido a esse erro, iremos excluir uma das linhas, já que isso pode ter sido um erro de banco de dados, que deve ser corrigido por lá (abordarei esse erro na Parte II).
 
 
        ### OBS.: Alguns problemas na qualidade dos dados serão analisados na Parte II, já que fará mais sentido abordá-los na construção do DW, como por exemplo:
