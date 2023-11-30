@@ -14,7 +14,7 @@
 
        ### OBS.: Alguns problemas na qualidade dos dados serão analisados na Parte II, já que fará mais sentido abordá-los na construção do DW, como por exemplo:
                 Mesmas espécies de produto com códidos de produtos distintos, onde serão tratados como uma dimensão diferente.
-                ![image](https://github.com/victorsa2/case-analista-bi/assets/141345545/5bde1517-e344-4827-9a01-cd04953f60ff)
+       ![image](https://github.com/victorsa2/case-analista-bi/assets/141345545/5bde1517-e344-4827-9a01-cd04953f60ff)
 
   ##
   - Tratamento dos dados das tabelas
