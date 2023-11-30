@@ -18,5 +18,6 @@
 
   ##
   - Tratamento dos dados das tabelas
-     - Padronização dos nomes das tabelas e colunas
+     - Padronização dos nomes das tabelas e colunas;
+     - Remoção de linhas duplicadas (id_loja) da tab_lojas;
   - Antes de começar com o desenvolvimento do Dashboard, vamos começar com o protótipo da Home e a estrutura das próximas abas com o Figma;
