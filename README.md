@@ -2,8 +2,8 @@
 ## Resolução de um case de analista de BI.
 
 ## A resolução será dividida em 2 partes:
-A primeira resolução seria na visão de um analista de BI;
-A segunda resolução seria me desafiar e resolver o case na visão de um engenheiro de dados.
+ - Parte I: Resolução na visão de um Analista de BI;
+ - Parte II: Resolução na visão de um engenheiro de dados, com o objetivo de me desafiar e botar em prática meus conhecimentos.
 
 # Parte I
   - Utilizando a ajuda de um editor de sql online (https://sqliteonline.com/) para a execução das querys;
