@@ -12,7 +12,7 @@
      - Lojas distintas possuem o mesmo id_loj:
        ![image](https://github.com/victorsa2/case-analista-bi/assets/141345545/0f426ad7-0292-403f-a59a-260602b06d7c)
 
-  ## OBS.: Alguns problemas na qualidade dos dados serão analisados na Parte II, já que fará mais sentido abordá-los na construção do DW, como por exemplo:
+       ### OBS.: Alguns problemas na qualidade dos dados serão analisados na Parte II, já que fará mais sentido abordá-los na construção do DW, como por exemplo:
   Mesmas espécies de produto com códidos de produtos distintos, onde serão tratados como uma dimensão diferente. 
 
   - Tratamento dos dados das tabelas
