@@ -14,7 +14,7 @@
 
        ### OBS.: Alguns problemas na qualidade dos dados serão analisados na Parte II, já que fará mais sentido abordá-los na construção do DW, como por exemplo:
                 Mesmas espécies de produto com códidos de produtos distintos, onde serão tratados como uma dimensão diferente. 
-
+  ##
   - Tratamento dos dados das tabelas
      - Padronização dos nomes das tabelas e colunas
   - Antes de começar com o desenvolvimento do Dashboard, vamos começar com o protótipo da Home e a estrutura das próximas abas com o Figma;
